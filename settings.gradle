@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "parkingspaces-client"
 include ':app'
+include ':domain'
+include ':data'
